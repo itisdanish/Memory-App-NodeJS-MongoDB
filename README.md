@@ -1,6 +1,10 @@
 # Memory-App-NodeJS-MongoDB
  "Memory App: A user-friendly tool for managing tasks and notes, helping you stay organized and boost productivity."
 
+ 
+ ![image](https://github.com/itisdanish/Memory-App-NodeJS-MongoDB/assets/65316644/0aecd443-cacf-4896-a101-bdf695860a4f)
+
+
 # Memory App
 
 A simple Memory App built with Node.js and MongoDB.
