@@ -56,12 +56,12 @@ Step-by-step instructions on how to install and set up your project. Make it cle
 
 ## Usage
 
-1. Open your web browser and go to http://localhost:3000.
+1. Open your web browser and go to [http://localhost:3000](http://localhost:3000).
 2. Use the app to create, view, edit, and delete memories.
 
 ## Contributing
 
-Contributions are welcome! Please follow the Contribution Guidelines.
+Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
@@ -69,26 +69,9 @@ This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE
 
 ## Acknowledgments
 
-Give credit to individuals or projects that inspired or helped your project. You can also include links to external resources or libraries you used.
-
-**Usage:**
-
-1. Open your web browser and go to [http://localhost:3000](http://localhost:3000).
-2. Use the app to create, view, edit, and delete memories.
-
-**Contributing:**
-
-Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md).
-
-**License:**
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
-
-**Acknowledgments:**
-
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Express.js](https://expressjs.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [EJS](https://ejs.co/)
-
+ Give credit to individuals or projects that inspired or helped your project. You can also include links to external resources or libraries you used.
