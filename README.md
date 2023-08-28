@@ -79,4 +79,4 @@ This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE
 - [Express.js](https://expressjs.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [EJS](https://ejs.co/)
- Give credit to individuals or projects that inspired or helped your project. You can also include links to external resources or libraries you used.
+- Give credit to individuals or projects that inspired or helped your project. You can also include links to external resources or libraries you used.
