@@ -55,8 +55,7 @@ Step-by-step instructions on how to install and set up your project. Make it cle
 3. Install dependencies:
    `npm install`
 4. Configure any environment variables if necessary.
-5. To use the MongoDB connection string you provided in the previous example, replace
-   `<YOUR_MONGODB_URI>` in the `app.js` file with your actual MongoDB Atlas connection string. Modify the following line in `app.js`: mongoose.connect('<YOUR_MONGODB_URI>', { useNewUrlParser: true, useUnifiedTopology: true })
+5. To use the MongoDB connection string, replace `<YOUR_MONGODB_URI>` in the `app.js` file with your actual MongoDB Atlas connection string. Modify the following line in `app.js`: mongoose.connect('<YOUR_MONGODB_URI>', { useNewUrlParser: true, useUnifiedTopology: true })
 5. Start the application:
    `npm start`
 
