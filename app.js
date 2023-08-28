@@ -8,15 +8,15 @@ mongoose.connect('<YOUR_MONGODB_URI>', { useNewUrlParser: true, useUnifiedTopolo
   .then(() => console.log('Connected to MongoDB'))
   .catch(err => console.error('MongoDB connection error:', err));
 
-// Middleware
+// Middleware | Ex. Parsing 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'));
 app.set('view engine', 'ejs');
 
-// Define a simple mongoose model
+// A simple mongoose model
 const Item = mongoose.model('Item', { name: String });
 
-// Routes
+// Routes for our Memory app | ex. get, post
 app.get('/', async (req, res) => {
   const items = await Item.find();
   res.render('index', { items });
